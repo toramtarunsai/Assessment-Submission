@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-28T16:24:48 IST" name="Default suite" finished-at="2024-03-28T16:25:10 IST" duration-ms="22054">
+    <groups>
+    </groups>
+    <test started-at="2024-03-28T16:24:48 IST" name="Default test" finished-at="2024-03-28T16:25:10 IST" duration-ms="22054">
+      <class name="assessment.testcases.TestCases">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:assessment.testcases.TestCases@71ba6d4e]" started-at="2024-03-28T16:24:48 IST" name="launchApplication" finished-at="2024-03-28T16:24:52 IST" duration-ms="4324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="checkIfTitleDisplayed()[pri:0, instance:assessment.testcases.TestCases@71ba6d4e]" started-at="2024-03-28T16:24:52 IST" name="checkIfTitleDisplayed" finished-at="2024-03-28T16:24:52 IST" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkIfTitleDisplayed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:assessment.testcases.TestCases@71ba6d4e]" started-at="2024-03-28T16:24:52 IST" name="tearDown" finished-at="2024-03-28T16:24:53 IST" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:assessment.testcases.TestCases@71ba6d4e]" started-at="2024-03-28T16:24:53 IST" name="launchApplication" finished-at="2024-03-28T16:24:55 IST" duration-ms="2546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="checkNewTabWithVacationURL()[pri:0, instance:assessment.testcases.TestCases@71ba6d4e]" started-at="2024-03-28T16:24:55 IST" name="checkNewTabWithVacationURL" finished-at="2024-03-28T16:24:57 IST" duration-ms="1555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkNewTabWithVacationURL -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:assessment.testcases.TestCases@71ba6d4e]" started-at="2024-03-28T16:24:57 IST" name="tearDown" finished-at="2024-03-28T16:24:57 IST" duration-ms="348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:assessment.testcases.TestCases@71ba6d4e]" started-at="2024-03-28T16:24:57 IST" name="launchApplication" finished-at="2024-03-28T16:25:00 IST" duration-ms="2551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="checkPurchaseTicket(java.lang.String,java.lang.String)[pri:0, instance:assessment.testcases.TestCases@71ba6d4e]" started-at="2024-03-28T16:25:00 IST" name="checkPurchaseTicket" data-provider="DepartureDestinationData" finished-at="2024-03-28T16:25:04 IST" duration-ms="3860" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mexico City]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[London]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPurchaseTicket -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:assessment.testcases.TestCases@71ba6d4e]" started-at="2024-03-28T16:25:04 IST" name="tearDown" finished-at="2024-03-28T16:25:04 IST" duration-ms="213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:assessment.testcases.TestCases@71ba6d4e]" started-at="2024-03-28T16:25:04 IST" name="launchApplication" finished-at="2024-03-28T16:25:06 IST" duration-ms="2547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="checkPurchaseTicket(java.lang.String,java.lang.String)[pri:0, instance:assessment.testcases.TestCases@71ba6d4e]" started-at="2024-03-28T16:25:06 IST" name="checkPurchaseTicket" data-provider="DepartureDestinationData" finished-at="2024-03-28T16:25:10 IST" duration-ms="3443" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Boston]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[New York]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPurchaseTicket -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:assessment.testcases.TestCases@71ba6d4e]" started-at="2024-03-28T16:25:10 IST" name="tearDown" finished-at="2024-03-28T16:25:10 IST" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- assessment.testcases.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
